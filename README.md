@@ -1,0 +1,1 @@
+This program is designed to automatically categorize incoming emails as either spam or non-spam using machine learning algorithms. By analyzing both the content and metadata of emails, the program aims to provide an effective solution for filtering out unwanted spam messages.
